@@ -15,9 +15,14 @@ export default {
       },
       fontFamily: {
         'kenwave' : ['Knewave', 'cursive'],
+        'colorFont': ['Bungee Spice', 'cursive'],
+        'popFont': ['Poppins', 'sans-serif'],
+      },
+      fontWeight: {
+        'black': '900',
       }
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [],
 }
 
