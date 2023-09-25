@@ -36,7 +36,7 @@ const Footer = () => {
         <div className="">
           <div className="m-auto p-5 ">
             <p className="text-center text-gray-500">
-              © 2021 SkinScan. All rights reserved.
+              © 2023 SkinScan. All rights reserved.
             </p>
           </div>
         </div>
