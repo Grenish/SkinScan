@@ -1,5 +1,6 @@
-import React from "react";
+import React, {useState} from "react";
 import { skinscan1 } from "../assets";
+import { Transition } from "@headlessui/react";
 
 const Hero = () => {
   return (
