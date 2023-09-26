@@ -11,7 +11,7 @@ const App = () => {
         <Features />
       </section>
       <section>
-        <Testimonials />
+        
       </section>
       <Footer />
     </div>
