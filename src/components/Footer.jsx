@@ -11,7 +11,7 @@ const Footer = () => {
           </div>
 
           <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
-            "Be the change that you wish to see in the world" - Mahatma Gandhi
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis metus at orci tempus tristique.
           </p>
 
           <div className="flex justify-center space-x-2 flex-wrap">
